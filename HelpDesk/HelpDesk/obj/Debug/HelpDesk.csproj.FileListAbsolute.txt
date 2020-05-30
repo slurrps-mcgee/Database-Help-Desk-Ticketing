@@ -1,0 +1,13 @@
+G:\CIS 237\Projects\Project 2\HelpDesk\HelpDesk\bin\Debug\HelpDesk.exe.config
+G:\CIS 237\Projects\Project 2\HelpDesk\HelpDesk\bin\Debug\HelpDesk.exe
+G:\CIS 237\Projects\Project 2\HelpDesk\HelpDesk\bin\Debug\HelpDesk.pdb
+G:\CIS 237\Projects\Project 2\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csprojAssemblyReference.cache
+G:\CIS 237\Projects\Project 2\HelpDesk\HelpDesk\obj\Debug\HelpDesk.frmMain.resources
+G:\CIS 237\Projects\Project 2\HelpDesk\HelpDesk\obj\Debug\HelpDesk.Properties.Resources.resources
+G:\CIS 237\Projects\Project 2\HelpDesk\HelpDesk\obj\Debug\HelpDesk.TechnitianForm.resources
+G:\CIS 237\Projects\Project 2\HelpDesk\HelpDesk\obj\Debug\HelpDesk.userSelectForm.resources
+G:\CIS 237\Projects\Project 2\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csproj.GenerateResource.cache
+G:\CIS 237\Projects\Project 2\HelpDesk\HelpDesk\obj\Debug\HelpDesk.exe
+G:\CIS 237\Projects\Project 2\HelpDesk\HelpDesk\obj\Debug\HelpDesk.pdb
+G:\CIS 237\Projects\Project 2\HelpDesk\HelpDesk\obj\Debug\LoginForm.frmLogin.resources
+G:\CIS 237\Projects\Project 2\HelpDesk\HelpDesk\obj\Debug\HelpDesk.Customer.resources
